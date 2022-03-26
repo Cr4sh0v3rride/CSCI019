@@ -1,0 +1,9 @@
+Topics of this Class Learning about "Active Reconnaissance"
+in this lesson we learn about How useful the web browser can be when working on Reconnaissance as the use of it to find information is not as noticeable as other forms, with Tools from the browser we are able to view the Developer tools that allow us to view more in depth then the standard UI of a website.
+we can see the folders and inspect cookies as well as See any Java Script.
+Depending on the browser you are using there are even tools to use such as FoxyProxy, UserAgentSwitcher+Manager, and Wappalyzer.
+they are add-ons to the web browser that assist you in your reconnaissance.
+The tools within The web browser are just some the other way to work on gathering information would be from Using the Terminal or MS CMD tools you would use are the following <Traceroute, Telnet, Netcat, and Good old Ping.>
+Each one of these Prompts gives incite no in plain text but in some way or another give clues to what type of  connection a website is working on or what version of a server the website is being provided to.
+
+The Tools in this Chapter were very insightful and educational on my Journey to understanding Network+
